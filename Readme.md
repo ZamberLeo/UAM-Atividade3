@@ -34,6 +34,7 @@ Assim termina-se com essa expressão para a fila resultante, que é de 10 elemen
 5 4 3 2 1 10 9 8 7 6 
 Isso ocorre porque primeiro os números de 1 a 5 foram enfileirados na ordem em que foram retirados da pilha e, em seguida, os números de 6 a 10 foram enfileirados na ordem em que foram retirados da pilha. Depois que os números foram invertidos novamente de 6 para 10, eles foram inseridos após o último elemento da primeira inserção, o número 1. 
 Abaixo está uma tela de impressão do console onde você pode ver o acima. A partir das impressões do tamanho da estrutura, podemos ver que o tamanho máximo da lista e da pilha é de 5 células e o tamanho máximo da pilha é de 10 células. As filas são sempre respeitadas:
+[!Codigo em ação.png]
 
 ## Código
 
